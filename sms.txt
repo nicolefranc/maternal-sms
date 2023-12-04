@@ -1,0 +1,9 @@
+if __name__ == '__main__':
+    message = sendSMS('Hello world', '+17733297451')
+    print(message.sid)
+
+    # schedule.every(2).minutes.do(dailyUpdate)
+
+
+# Sana 17733297451
+# Sajeev 6179094980

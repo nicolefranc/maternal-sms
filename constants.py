@@ -1,0 +1,5 @@
+GROUP = 'Message Group'
+INDEX = 'Message Index'
+PHONE = 'What is your phone number?'
+DATE_SINCE = 'Date since message last sent'
+DATE_FORMAT = '%d-%m-%Y %H:%M:%S'
